@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/lm_minsik/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 <a href="https://mail.naver.com/#%7B%22fClass%22%3A%22write%22%2C%22oParameter%22%3A%7B%22orderType%22%3A%22new%22%2C%22sMailList%22%3A%22%22%7D%7D" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limminsik&show_icons=true&theme=moltack)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limminsik&show_icons=true&theme=solarized-light)
