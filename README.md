@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+__빅데이터__ 분석가가 되고 싶은 
+
 <!--
 **Limminsik/Limminsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
